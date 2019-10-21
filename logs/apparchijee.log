@@ -1,0 +1,15 @@
+2019-10-09 17:20:23,796 INFO com.macrosoftas.archijee.DemoApplicationTests [main] Starting DemoApplicationTests on DESKTOP-OR1MPIC with PID 6988 (started by User in C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot)
+2019-10-09 17:20:23,807 DEBUG com.macrosoftas.archijee.DemoApplicationTests [main] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-09 17:20:23,827 INFO com.macrosoftas.archijee.DemoApplicationTests [main] The following profiles are active: dev
+2019-10-09 17:20:45,609 INFO com.macrosoftas.archijee.DemoApplicationTests [main] Started DemoApplicationTests in 23.58 seconds (JVM running for 29.091)
+2019-10-09 17:20:45,619 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [main] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-09 17:20:46,868 INFO com.macrosoftas.archijee.ExampleRepositoryTests [main] Starting ExampleRepositoryTests on DESKTOP-OR1MPIC with PID 6988 (started by User in C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot)
+2019-10-09 17:20:46,869 DEBUG com.macrosoftas.archijee.ExampleRepositoryTests [main] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-09 17:20:46,872 INFO com.macrosoftas.archijee.ExampleRepositoryTests [main] The following profiles are active: dev
+2019-10-09 17:20:48,320 INFO com.macrosoftas.archijee.ExampleRepositoryTests [main] Started ExampleRepositoryTests in 1.579 seconds (JVM running for 31.802)
+2019-10-09 17:20:48,326 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [main] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
+2019-10-09 17:20:49,168 INFO com.macrosoftas.archijee.MyControllerTests [main] Starting MyControllerTests on DESKTOP-OR1MPIC with PID 6988 (started by User in C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot)
+2019-10-09 17:20:49,171 DEBUG com.macrosoftas.archijee.MyControllerTests [main] Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-10-09 17:20:49,173 INFO com.macrosoftas.archijee.MyControllerTests [main] The following profiles are active: dev
+2019-10-09 17:20:53,506 INFO com.macrosoftas.archijee.MyControllerTests [main] Started MyControllerTests in 4.402 seconds (JVM running for 36.987)
+2019-10-09 17:20:53,515 DEBUG com.macrosoftas.archijee.ArchiJEEApplication [main] **** Create default user  [ADMIN, ADMIN, admin@test.com, admin2017]
